@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 tiangolo/uvicorn-gunicorn:python3.11
+azul/zulu-openjdk:21
