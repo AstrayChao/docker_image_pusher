@@ -9,3 +9,4 @@ tiangolo/uvicorn-gunicorn:python3.11
 azul/zulu-openjdk:21
 mongo:7.0.2
 redis:7.2.3
+nginx:1.25.3
