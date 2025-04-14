@@ -14,7 +14,7 @@
 #qingpan/rnacos:latest
 #golang:1.24.0-alpine
 #mongo:8.0.5
-prom/prometheus:latest
-grafana/grafana:latest
-grafana/alloy:latest
-grfana/loki:latest
+#prom/prometheus:latest
+#grafana/grafana:latest
+#grafana/alloy:latest
+grafana/loki:latest
