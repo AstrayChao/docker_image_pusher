@@ -19,4 +19,5 @@
 #grafana/alloy:latest
 #grafana/loki:latest
 #percona/mongodb_exporter:0.44.0
-oliver006/redis_exporter
+#oliver006/redis_exporter
+qingpan/rnacos:stable
