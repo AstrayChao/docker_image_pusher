@@ -22,4 +22,6 @@
 #oliver006/redis_exporter
 #qingpan/rnacos:stable
 #prom/node-exporter
-grafana/grafana:11.6.0-security-01
+#grafana/grafana:11.6.0-security-01
+drone/drone:2
+drone/drone-runner-docker:1
