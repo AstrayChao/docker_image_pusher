@@ -26,4 +26,4 @@
 #drone/drone:2
 #drone/drone-runner-docker:1
 #maven:3.9.9-sapmachine-21
-alpine/git
+qingpan/rnacos:stable
