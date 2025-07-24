@@ -30,4 +30,5 @@
 #spark:4.0.0-scala2.13-java21-python3-ubuntu
 #node:lts-alpine3.22
 #oven/bun:1.2.19-alpine
-oven/bun:1.2.19-debian
+#oven/bun:1.2.19-debian
+oven/bun:1.2.19
