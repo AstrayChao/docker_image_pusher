@@ -31,4 +31,6 @@
 #node:lts-alpine3.22
 #oven/bun:1.2.19-alpine
 #oven/bun:1.2.19-debian
-oven/bun:1.2.19
+#oven/bun:1.2.19
+elasticsearch:8.19.2
+kibana:8.19.2
