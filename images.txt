@@ -32,5 +32,6 @@
 #oven/bun:1.2.19-alpine
 #oven/bun:1.2.19-debian
 #oven/bun:1.2.19
-elasticsearch:8.19.2
-kibana:8.19.2
+#elasticsearch:8.19.2
+#kibana:8.19.2
+mongo:8.0.17
