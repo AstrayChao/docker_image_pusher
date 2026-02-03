@@ -34,4 +34,5 @@
 #oven/bun:1.2.19
 #elasticsearch:8.19.2
 #kibana:8.19.2
-mongo:8.0.17
+#mongo:8.0.17
+huggingface/mongoku:2.5.0
