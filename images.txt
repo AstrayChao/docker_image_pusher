@@ -35,4 +35,5 @@
 #elasticsearch:8.19.2
 #kibana:8.19.2
 #mongo:8.0.17
-huggingface/mongoku:2.5.0
+#huggingface/mongoku:2.5.0
+dbgate/dbgate:alpine
