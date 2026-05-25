@@ -36,4 +36,5 @@
 #kibana:8.19.2
 #mongo:8.0.17
 #huggingface/mongoku:2.5.0
-dbgate/dbgate:alpine
+#dbgate/dbgate:alpine
+getmeili/meilisearch:v1.44
