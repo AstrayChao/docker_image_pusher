@@ -38,7 +38,8 @@
 #huggingface/mongoku:2.5.0
 #dbgate/dbgate:alpine
 #getmeili/meilisearch:v1.44.0
-grafana/grafana:12.3.11
-grafana/loki:3.7.6
-grafana/alloy:v1.19.1
-prom/prometheus:v3.14.0
+#grafana/grafana:12.3.11
+#grafana/loki:3.7.6
+#grafana/alloy:v1.19.1
+#prom/prometheus:v3.14.0
+qingpan/rnacos:v0.8.6
