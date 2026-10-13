@@ -42,4 +42,5 @@
 #grafana/loki:3.7.6
 #grafana/alloy:v1.19.1
 #prom/prometheus:v3.14.0
-qingpan/rnacos:v0.8.6
+#qingpan/rnacos:v0.8.6
+mongodb/mongodb-community-server:9.0-ubi9-slim 
